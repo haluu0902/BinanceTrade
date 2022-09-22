@@ -2,7 +2,7 @@ import telepot
 
 class SendMessageTelegram:
     def __init__(self):
-        token = '5631591222:AAEpGSfqDaBzmzMoLMKtFgJ7IJHav_4cdLs' # telegram token
+        token = 'telegram token' # telegram token
         #self.receiver_id = 1846504253 # https://api.telegram.org/bot<TOKEN>/getUpdates
         #1846504253
 
